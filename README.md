@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm from Mars!<br><br>It's me, Siphephelo Myeni. You've probably never heard of me. And I've never thought of writing a README for myself. Usually READMEs are written for applications and softwares, but here I am writing a README about me. READ me. And you cannot star this repo even if you click a star button.<br><br>🔭 I’m currently working on myself<br>🌱 I’m currently learning Java<br>💬 Ask me about Java, HTML, CSS<br>⚡ Fun fact: The longest English word is "pneumonoultramicroscopicsilicovolcanoconiosis," a lung disease caused by inhaling very fine ash and sand dust.
+I'm from Mars!<br><br>It's me, Siphephelo Myeni. You've probably never heard of me. And I've never thought of writing a README for myself. Usually READMEs are written for applications and softwares, but here I am writing a README about me. READ me. And you cannot star this repo even if you click a star button.<br><br>🔭 I’m currently working on myself<br>🌱 I’m currently learning Python(Robotics and Autonomous Systems) <br>💬 Ask me about Java, HTML, CSS<br>⚡ Fun fact: The longest English word is "pneumonoultramicroscopicsilicovolcanoconiosis," a lung disease caused by inhaling very fine ash and sand dust.
 
 
 ## 🌐 Socials:
